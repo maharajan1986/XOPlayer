@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XOPlayer</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="media_url_mp3">https://japantamilradio.websiteforjust200.com/radio/8010/radio.mp3?1551270561</string>
+</resources>
